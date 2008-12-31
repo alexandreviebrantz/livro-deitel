@@ -5,6 +5,7 @@
 
 package ch02.Exer02_06;
 
+
 //Ex. 2.6: Product.java
 //Calcula o produto de tr�s inteiros
 import java.util.Scanner;
